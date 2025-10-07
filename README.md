@@ -1,5 +1,7 @@
 # 🏢 AgencyBD
 
+<img src="thumbnail.png">
+
 A sleek and professional **digital agency landing page** that showcases creative services, portfolio highlights, client testimonials, and a newsletter section.  
 Built with **HTML**, **CSS**, and **JavaScript**, and enhanced using **Swiper.js** and **ScrollReveal** for modern animations and smooth user experiences.
 
@@ -20,8 +22,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, and enhanced using **Swiper.js
 
 ## 🧠 Demo
 
-👉 **Live Demo:** [Click Here](#) *(add your GitHub Pages or live link here)*  
-Or open `index.html` directly in your browser.
+👉 **Live Demo:** [Click Here](https://fsafiya187.github.io/AgencyBD/) 
 
 ---
 
